@@ -1,0 +1,5 @@
+{
+  "name": "编程猫成长路径可视化",
+  "description": "一个供家长使用的交互式仪表板，可视化展示从图标编程（Kids）到积木编程（Nemo）再到文本编程的学习路径。",
+  "requestFramePermissions": []
+}
